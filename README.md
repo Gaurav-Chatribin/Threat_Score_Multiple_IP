@@ -1,4 +1,4 @@
-# Multiple IP Threat Score
+# Multiple IP Reputation Checker
 
 ## Description
 
