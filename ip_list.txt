@@ -1,0 +1,5 @@
+#Enter the list of IP's that you want to check. 
+#Note: Enter each IP on new line.
+
+1.1.1.1
+8.8.8.8
