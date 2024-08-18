@@ -11,6 +11,16 @@ The script can:
 
 This tool is useful for monitoring and analyzing the security status of multiple IP addresses, helping to identify potential threats based on their reputation.
 
+### Note: Adjust the below the in code based on the ratelimit set by Virustotal & AbuseIPDB. 
+    # Rate limiting: Wait for 1 second before the next request
+    time.sleep(1)
+
+   To know know check the Rate limit Provided by this vendor based on your plans.
+  -  https://virustotal.readme.io/reference/public-vs-premium-api
+  -  https://www.abuseipdb.com/pricing
+   
+   
+
 ## Features
 
 - **VirusTotal Integration**: Retrieves tags and detailed analysis statistics for IP addresses.
